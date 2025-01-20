@@ -1,0 +1,75 @@
+/* navbar started */
+.logo-img{
+    width: 165px;
+}
+
+.nav-item{
+   font-size: 2rem;
+}
+
+.navbar{
+   padding: 15px;
+}
+
+.franchise-btn{
+background-color: transparent;
+color: #9C6B34;
+border: 1px solid #ffffff;
+padding: 20px 25px;
+border-radius: 30px;
+font-size: 1.6rem;
+cursor: pointer;
+}
+
+.order-btn{
+   background-color: #9C6B34;
+   color: #ffffff;
+   border: none;
+   padding: 20px 25px;
+   border-radius: 30px;
+   font-size: 1.6rem;
+   cursor: pointer;
+}
+
+.circle-btn{
+   background-color: #ffffff;
+   color:#9C6B34;
+   padding: 10px 10px;
+   border-radius: 30px;
+}
+
+.arrow-icon{
+   font-size: 1.5rem;
+}
+
+/* navbar ended */
+
+.restaurant-img{
+    width: 540px;
+    height: 343px;
+}
+
+/* restaurant ended  */
+
+/* express started  */
+
+.img-width{
+   width: 540px;
+   height: 331px;
+}
+
+
+.exp-bahria{
+   width: 326px;
+   height: 275px;
+   padding: 0px 10px;
+}
+/* village started */
+
+.village-img{
+   width: 540px;
+   height: 309px;
+}
+
+
+   

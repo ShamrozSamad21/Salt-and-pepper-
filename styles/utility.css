@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: apercu;
+    src: url(../Fonts/Apercu\ Font\ Family/);
+}
+
+@font-face {
+    font-family: futurak;
+    src: url(../Fonts/futurak.ttf);
+}
+
+.snp-logo{
+    font-family: futurak;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: apercu;
+    background-color: #F5F1E6;
+    color: #9C6B34;
+}
+
+body{
+    background-color:#F5F1E6;
+    color: #9C6B34;
+}
+
+
+/* Utility classes started */
+
+/* display flex started */
+.d-flex{
+    display: flex;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.item-center{
+align-items: center;
+}
+
+.flex-direction{
+    flex-direction: row;
+}
+
+.gap-1{
+    gap: 5px;
+}
+
+.gap-2{
+    gap: 10px;
+}
+
+.gap-3{
+    gap: 15px;
+}
+
+.gap-4{
+    gap: 20px;
+}
+
+.gap-5{
+    gap: 25px;
+}
+
+
+/* display flex ended */
+
+
+/* margin properties */
+
+/* margin top and bottom */
+
+.my-1{
+    margin: 10px 0px;
+}
+
+.my-2{
+    margin: 20px 0px;
+}
+
+.my-3{
+    margin: 25px 0px;
+}
+
+.my-4{
+    margin: 30px 0px;
+}
+
+.my-5{
+    margin: 45px 0px;
+}
+
+/* margin left and right */
+
+.mx-1{
+    margin: 0px 15 px;
+}
+
+.mx-2{
+    margin: 0px 25px;
+}
+
+.mx-3{
+    margin: 0px 30px;
+}
+.mx-4{
+    margin: 0px 35px;
+}
+
+.mx-5{
+    margin: 0px 45px;
+}
+
+
+/* color and text properties */
+
+.bg-lightBeige{
+background-color: #D6B893;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-none{
+    text-decoration: none;
+    color: var(--white);
+}
+
+.text-brown{
+    color: #9C6B34;
+}
+
+.text-WarmTaupe{
+    color: #8B6E4F;
+}
+
+.font-size2{
+    font-size: 2rem;
+}
+
+.font-size3{
+    font-size: 3rem;
+}
+
+.font-size4{
+    font-size: 4rem;
+}
+
+.font-size5{
+    font-size: 5rem;
+}
+
+.border-top{
+    border-top: 1px solid #000000;
+}
+
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+/* margin top*/
+
+.mt-1{
+    margin-top: 10px;
+}
+.mt-2{
+    margin-top: 20px;
+}
+.mt-3{
+    margin-top: 30px;
+}
+.mt-4{
+    margin-top: 40px;
+}
+.mt-5{
+    margin-top: 50px;
+}
+
+/* Utility classes ended */

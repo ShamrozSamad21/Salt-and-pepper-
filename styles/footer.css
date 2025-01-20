@@ -1,0 +1,31 @@
+.salt-logo{
+    width: 140px;
+    height: 67px;
+}
+
+.flex-dir{
+    flex-direction: column;
+}
+
+.padding{
+    padding: 50px 75px;
+}
+
+.fb-btn{
+   font-size: 4rem;
+   color: #9C6B34;
+}
+
+.insta-btn{
+    font-size: 4rem;
+    color: #9C6B34;
+}
+
+.twitter-btn{
+    font-size: 4rem;
+    color: #9C6B34;
+}
+
+.font-size{
+    font-size: 1.6rem
+}

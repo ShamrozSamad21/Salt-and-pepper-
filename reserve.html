@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Restaurant Reservation</title>
+<style>
+    body {
+      font-family: apercu;
+      margin: 20px;
+      background: #000;
+    }
+    form {
+      max-width: 400px;
+      margin: auto;
+    }
+    input, button, select {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #444;
+      border-radius: 5px;
+    }
+
+    input ::placeholder{
+      color: #aaa;
+    }
+  
+
+    button {
+      background-color: #f0a500;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #d99000;
+    }  
+
+    h1{
+      text-align: center;
+      color: #ffffff;
+    }
+</style>
+</head>
+<body>
+<h1>Make a Reservation</h1>  
+<form id="reservationForm">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required placeholder="Your Name">
+
+    <label for="contact">Contact Number:</label>
+    <input type="tel" id="contact" name="contact" required placeholder="Your Contact Number">
+
+    <label for="people">Number of People:</label>
+    <input type="number" id="people" name="people" required  placeholder="Number of Guests">
+
+    <label for="date">Reservation Date:</label>
+    <input type="date" id="date" name="date" required>
+
+    <label for="time">Reservation Time:</label>
+    <input type="time" id="time" name="time" required>
+
+    <button onclick="makeReservation()">Submit Reservation</button>
+  </form>
+
+  <script src="./javascript/app.js"></script>  
+  </body>
+  </html>

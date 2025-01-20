@@ -1,0 +1,164 @@
+/* navbar started */
+
+.logo-img{
+     width: 165px;
+}
+
+.nav-item{
+    font-size: 2rem;
+}
+
+.navbar{
+    padding: 15px;
+}
+
+.franchise-btn{
+background-color: transparent;
+color: #9C6B34;
+border: 1px solid #ffffff;
+padding: 20px 25px;
+border-radius: 30px;
+font-size: 1.6rem;
+cursor: pointer;
+}
+
+.order-btn{
+    background-color: #9C6B34;
+    color: #ffffff;
+    border: none;
+    padding: 20px 25px;
+    border-radius: 30px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+.circle-btn{
+    background-color: #ffffff;
+    color:#9C6B34;
+    padding: 10px 10px;
+    border-radius: 30px;
+}
+
+.arrow-icon{
+    font-size: 1.5rem;
+}
+
+/* navbar ended */
+
+/* Carousel started */
+.Carousel-img{
+    width: 100%;
+}
+/* Carousel ended */
+
+/* Express text started */
+
+.express-text1{
+    font-size: 4rem;
+}
+
+.express-text2{
+    font-size: 4rem;
+}
+
+.express-text3{
+    font-size: 1.7rem;
+    margin: 5px 0px 0px 0px;
+}
+/* Express text ended */
+
+/* Express logo started */
+
+.express-logo1{
+    background-color: #ffffff;
+    border-radius: 10px; 
+}
+
+.express-logo2{
+    background-color: #ffffff;
+    border-radius: 10px; 
+}
+
+.express-logo3{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.express-logobtn{
+background-color: transparent;
+border: 1px solid #ffffff;
+padding:10px 20px;
+border-radius: 10px;
+font-size: 1.6rem;
+cursor: pointer;
+}
+
+.gap-6{
+    gap: 170px;
+}
+
+/* express logo ended */
+
+
+/* restaurant frachises started */
+.font-size{
+    font-size: 1.6rem;
+}
+
+/* Islamabad */
+
+.getdirection-btn{
+ background-color: #9C6B34;
+ color: #ffffff;
+border: 1px solid #ffffff;
+padding:10px 20px;
+border-radius: 30px;
+font-size: 1.6rem;
+cursor: pointer;
+}
+
+/* restaurant franchises ended */
+
+/* express franchises started */
+.express-img{
+    width: 350px;
+    height: 250px;
+}
+
+.gap-7{
+    gap: 250px;
+}
+
+/* Express franchise ended */
+
+/* village franchise */
+
+.arrow-btn{
+    background-color: #ffffff;
+    color:#9C6B34;
+    padding: 10px 10px;
+    border-radius: 30px;  
+}
+/* village franchise ended  */
+
+/* Express franchise opening soon started */
+.opening-soon{
+    border: 1px solid #000000;
+    width: 350px;
+    height: 230px;
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Express franchise opening soon ended */
+
+/* social feed started */
+
+.socialfeed-img{
+    width: 250px;
+    height: 250px;
+}
+
+/* social feed ended  */
